@@ -1,6 +1,5 @@
 #include<iostream>
 #include "MICROS.h"
-#include "rlutil.h"
 #include<cstring>
 #include "funciones.h"
 

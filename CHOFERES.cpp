@@ -1,5 +1,7 @@
 #include<iostream>
 #include "CHOFERES.h"
+#include "funciones.h"
+#include<cstring>
 
 using namespace std;
 

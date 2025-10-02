@@ -18,6 +18,9 @@ public:
     const char *getapellido();
     int getdni();
     int gettelefono();
+
+    void cargar();
+    void mostrar();
 };
 
 

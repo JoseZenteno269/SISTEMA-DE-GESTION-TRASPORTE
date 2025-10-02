@@ -42,6 +42,8 @@
 		</Linker>
 		<Unit filename="CHOFERES.cpp" />
 		<Unit filename="CHOFERES.h" />
+		<Unit filename="DESTINOS.cpp" />
+		<Unit filename="DESTINOS.h" />
 		<Unit filename="FECHAS.cpp" />
 		<Unit filename="FECHAS.h" />
 		<Unit filename="MICROS.cpp" />
