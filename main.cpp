@@ -13,8 +13,7 @@ int main(){
     //HWND console = GetConsoleWindow();
     //ShowWindow(console, SW_MAXIMIZE);
     //setBackgroundColor(BLUE);
-    cout<<"esto es de prueba"<<endl; 
-
+    
     MENU();
 
     cout<<endl<<endl;
