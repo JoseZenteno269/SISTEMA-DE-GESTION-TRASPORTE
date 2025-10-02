@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1759431919 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\main.cpp
+1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\main.cpp
 	<iostream>
 	"rlutil.h"
 	<windows.h>
@@ -452,16 +452,28 @@
 
 1759348874 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\micros.h
 
-1759348087 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.cpp
+1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.cpp
 	<iostream>
 	"PERSONA.h"
+	"funciones.h"
+	<cstring>
 
-1759431902 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.h
+1759435607 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.h
 
-1759348873 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.cpp
+1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.cpp
 	<iostream>
 	"CHOFERES.h"
+	"funciones.h"
+	<cstring>
 
-1759348688 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.h
+1759432115 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.h
 	"PERSONA.h"
+
+1759436256 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.cpp
+	<iostream>
+	"DESTINOS.h"
+	"funciones.h"
+	<cstring>
+
+1759436183 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.h
 

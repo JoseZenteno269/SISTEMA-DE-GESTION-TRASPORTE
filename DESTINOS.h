@@ -7,17 +7,20 @@ private:
     char nombre[40];
     char provincia[40];
     float distanciaKm;
+    bool habilitado;
 public:
 
     void setidDestino(int );
     void setnombre(const char *);
     void setprovincia(const char *);
     void setdistanciaKm(float );
+    void sethabilitado(bool );
 
     int getidDestino();
     const char *getnombre();
     const char *getprovincia();
     float getdistanciaKm();
+    bool gethabilitado();
 
     void cargar();
     void mostrar();

@@ -5,15 +5,21 @@
 
 using namespace std;
 
-void Destinos::setidDestino(){}
-void Destinos::setnombre(){}
-void Destinos::setprovincia(){}
-void Destinos::setdistanciaKm(){}
+void Destinos::setidDestino(int ){}
+void Destinos::setnombre(const char *){}
+void Destinos::setprovincia(const char *){}
+void Destinos::setdistanciaKm(float ){}
+void Destinos::sethabilitado(bool ){}
 
 int Destinos::getidDestino(){}
 const char *Destinos::getnombre(){}
 const char *Destinos::getprovincia(){}
 float Destinos::getdistanciaKm(){}
+bool Destinos::gethabilitado(){}
 
-void Destinos::cargar(){}
-void Destinos::mostrar(){}
+void Destinos::cargar(){
+
+}
+void Destinos::mostrar(){
+
+}

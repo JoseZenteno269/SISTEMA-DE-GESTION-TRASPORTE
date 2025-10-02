@@ -4,7 +4,6 @@
 #include "funciones.h"
 
 using namespace std;
-using namespace rlutil;
 
 
 Micros::Micros(int idm, const char *mrc, const char *t, int c){
