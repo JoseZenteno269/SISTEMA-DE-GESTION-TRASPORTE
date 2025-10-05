@@ -40,6 +40,10 @@
 			<Add library="sfml-audio" />
 			<Add directory="SFML/lib" />
 		</Linker>
+		<Unit filename="ARCHIVO_HISTORIAL_INGRESOS.cpp" />
+		<Unit filename="ARCHIVO_HISTORIAL_INGRESOS.h" />
+		<Unit filename="ARCHIVO_USUARIOS.cpp" />
+		<Unit filename="ARCHIVO_USUARIOS.h" />
 		<Unit filename="CHOFERES.cpp" />
 		<Unit filename="CHOFERES.h" />
 		<Unit filename="DESTINOS.cpp" />
@@ -50,6 +54,8 @@
 		<Unit filename="MICROS.h" />
 		<Unit filename="PERSONA.cpp" />
 		<Unit filename="PERSONA.h" />
+		<Unit filename="USUARIOS.cpp" />
+		<Unit filename="USUARIOS.h" />
 		<Unit filename="funciones.cpp" />
 		<Unit filename="funciones.h" />
 		<Unit filename="main.cpp" />

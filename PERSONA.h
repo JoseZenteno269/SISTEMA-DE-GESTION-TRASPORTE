@@ -5,8 +5,8 @@ class Personas{
 protected:
     char nombre[40];
     char apellido[40];
-    int dni[15];
-    int telefono[20];
+    int dni;
+    int telefono;
 public:
 
     void setnombre(const char *);

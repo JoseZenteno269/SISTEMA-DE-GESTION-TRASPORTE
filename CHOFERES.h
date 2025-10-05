@@ -15,6 +15,7 @@ public:
 
     int getlegajo();
     int getidMicro();
+    bool getestado();
 
     void cargar();
     void mostrar();

@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\main.cpp
+1759616371 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\main.cpp
 	<iostream>
 	"rlutil.h"
 	<windows.h>
 	"funciones.h"
+	<ctime>
+	"USUARIOS.h"
 
 1753029034 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\rlutil.h
 	<iostream>
@@ -428,52 +430,84 @@
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
 
-1759346995 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\funciones.cpp
+1759704027 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\funciones.cpp
 	<iostream>
 	"funciones.h"
 	"rlutil.h"
 	"MICROS.h"
+	"CHOFERES.h"
+	"USUARIOS.h"
+	"ARCHIVO_USUARIOS.h"
+	"DESTINOS.h"
+	"FECHAS.h"
+	"ARCHIVO_HISTORIAL_INGRESOS.h"
 
-1759191664 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\funciones.h
+1759703213 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\funciones.h
 
-1759346638 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\fechas.cpp
+1759698832 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\fechas.cpp
 	<iostream>
 	"FECHAS.h"
 	"rlutil.h"
 
-1759191317 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\fechas.h
+1759698849 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\fechas.h
 
-1759346754 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\micros.cpp
+1759436275 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\micros.cpp
 	<iostream>
 	"MICROS.h"
-	"rlutil.h"
 	<cstring>
 	"funciones.h"
 
 1759348874 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\micros.h
 
-1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.cpp
+1759600642 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.cpp
 	<iostream>
 	"PERSONA.h"
 	"funciones.h"
 	<cstring>
 
-1759435607 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.h
+1759600627 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\persona.h
 
-1759435607 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.cpp
+1759602965 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.cpp
 	<iostream>
 	"CHOFERES.h"
 	"funciones.h"
 	<cstring>
 
-1759432115 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.h
+1759602965 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\choferes.h
 	"PERSONA.h"
 
-1759436256 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.cpp
+1759602965 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.cpp
 	<iostream>
 	"DESTINOS.h"
 	"funciones.h"
 	<cstring>
 
-1759436183 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.h
+1759602965 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\destinos.h
+
+1759700994 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\usuarios.cpp
+	<iostream>
+	"USUARIOS.h"
+	<cstring>
+	"funciones.h"
+
+1759700994 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\usuarios.h
+	"PERSONA.h"
+	"FECHAS.h"
+
+1759608876 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\archivo_usuarios.cpp
+	<iostream>
+	"ARCHIVO_USUARIOS.h"
+	<cstring>
+
+1759607621 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\archivo_usuarios.h
+	"USUARIOS.h"
+
+1759699095 source:d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\archivo_historial_ingresos.cpp
+	<iostream>
+	"ARCHIVO_HISTORIAL_INGRESOS.h"
+	<cstring>
+
+1759699095 d:\utn\programacion\2025\programacion 2\codeblocks\gestio de transporte\archivo_historial_ingresos.h
+	"USUARIOS.h"
+	"FECHAS.h"
 

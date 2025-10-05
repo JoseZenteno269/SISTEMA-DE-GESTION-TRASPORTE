@@ -18,7 +18,7 @@ public:
     int getanio();
 
     void cargar();
-    void mostar();
+    void mostrar();
 };
 
 #endif // FECHAS_H_INCLUDED

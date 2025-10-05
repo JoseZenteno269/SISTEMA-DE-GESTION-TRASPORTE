@@ -24,7 +24,7 @@ void Fechas::cargar(){
     cout<<"Mes: ";cin>>mes;
     cout<<"Año: ";cin>>anio;
 }
-void Fechas::mostar(){
+void Fechas::mostrar(){
     cout<<"Dia: "<<dia<<endl;
     cout<<"Mes: "<<mes<<endl;
     cout<<"Año: "<<anio<<endl;
